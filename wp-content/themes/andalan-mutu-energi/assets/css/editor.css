@@ -1,0 +1,17 @@
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+	color: #1d1d1f;
+	font-size: 17px;
+	line-height: 1.6;
+}
+
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3 {
+	letter-spacing: -0.025em;
+	line-height: 1.12;
+}
+
+.editor-styles-wrapper a {
+	color: #0066cc;
+}

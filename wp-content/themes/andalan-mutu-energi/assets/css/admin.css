@@ -1,0 +1,278 @@
+.ame-analytics-wrap {
+	max-width: 1240px;
+}
+
+.ame-analytics-wrap > .description {
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+
+.ame-analytics-toolbar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 16px;
+	margin: 22px 0 16px;
+}
+
+.ame-analytics-ranges {
+	display: flex;
+	gap: 6px;
+}
+
+.ame-analytics-ranges .button {
+	margin: 0;
+}
+
+.ame-analytics-cards {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: 16px;
+	margin-bottom: 20px;
+}
+
+.ame-analytics-card {
+	padding: 20px;
+	border: 1px solid #dcdcde;
+	border-top: 3px solid #0b2d25;
+	border-radius: 4px;
+	background: #fff;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.03);
+}
+
+.ame-analytics-card span {
+	display: block;
+	min-height: 34px;
+	color: #646970;
+	font-size: 12px;
+	line-height: 1.4;
+}
+
+.ame-analytics-card strong {
+	display: block;
+	margin-top: 10px;
+	color: #0b2d25;
+	font-size: 32px;
+	line-height: 1.1;
+	font-weight: 600;
+}
+
+.ame-analytics-panel {
+	padding: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #dcdcde;
+	border-radius: 4px;
+	background: #fff;
+}
+
+.ame-analytics-panel h2 {
+	margin: 0 0 16px;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.ame-analytics-panel-heading {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	gap: 16px;
+}
+
+.ame-analytics-panel-heading span {
+	color: #646970;
+	font-size: 12px;
+}
+
+.ame-analytics-legend {
+	display: flex;
+	gap: 18px;
+	margin: 4px 0 14px;
+	color: #646970;
+	font-size: 12px;
+}
+
+.ame-analytics-legend span {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+}
+
+.ame-analytics-legend i {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	border-radius: 2px;
+}
+
+.ame-analytics-legend .is-views,
+.ame-analytics-bars .is-views {
+	background: #0b2d25;
+}
+
+.ame-analytics-legend .is-visitors,
+.ame-analytics-bars .is-visitors {
+	background: #d62839;
+}
+
+.ame-analytics-chart {
+	display: flex;
+	align-items: stretch;
+	gap: 5px;
+	min-height: 238px;
+	padding: 12px 6px 0;
+	overflow-x: auto;
+	border-bottom: 1px solid #dcdcde;
+}
+
+.ame-analytics-day {
+	display: flex;
+	flex: 1 0 24px;
+	flex-direction: column;
+	min-width: 24px;
+}
+
+.ame-analytics-bars {
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	gap: 2px;
+	height: 204px;
+}
+
+.ame-analytics-bars span {
+	width: 42%;
+	min-height: 0;
+	border-radius: 3px 3px 0 0;
+	transition: height 180ms ease;
+}
+
+.ame-analytics-date {
+	padding-top: 8px;
+	color: #646970;
+	font-size: 10px;
+	line-height: 1.2;
+	text-align: center;
+	white-space: nowrap;
+}
+
+.ame-analytics-data {
+	margin-top: 18px;
+}
+
+.ame-analytics-data summary {
+	margin-bottom: 12px;
+	color: #2271b1;
+	cursor: pointer;
+}
+
+.ame-analytics-data table {
+	margin-top: 12px;
+}
+
+.ame-analytics-panel table td:first-child {
+	max-width: 680px;
+	word-break: break-word;
+}
+
+.ame-analytics-panel table code {
+	color: #646970;
+	font-size: 11px;
+}
+
+.ame-analytics-privacy ul {
+	padding-left: 20px;
+	margin: 0 0 18px;
+	list-style: disc;
+}
+
+.ame-analytics-privacy li {
+	margin-bottom: 8px;
+	color: #50575e;
+	line-height: 1.5;
+}
+
+.ame-security-wrap .ame-analytics-card {
+	border-top-color: #b91f32;
+}
+
+.ame-security-wrap .ame-analytics-card strong {
+	color: #8c1d2b;
+}
+
+.ame-security-policy ul {
+	padding-left: 20px;
+	margin: 0;
+	list-style: disc;
+}
+
+.ame-security-policy li {
+	margin-bottom: 8px;
+	color: #50575e;
+	line-height: 1.5;
+}
+
+.ame-security-table-wrap {
+	overflow-x: auto;
+}
+
+.ame-security-table-wrap table {
+	min-width: 720px;
+}
+
+.ame-security-wrap td code {
+	white-space: nowrap;
+}
+
+.ame-security-wrap td:nth-child(5) code {
+	white-space: normal;
+	word-break: break-word;
+}
+
+.ame-inline-form {
+	display: inline;
+	margin: 0;
+}
+
+.ame-security-severity-high {
+	color: #b32d2e;
+	font-weight: 600;
+}
+
+.ame-security-severity-medium {
+	color: #8a6100;
+}
+
+.ame-security-severity-low {
+	color: #2271b1;
+}
+
+@media screen and (max-width: 782px) {
+	.ame-analytics-cards {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+
+	.ame-analytics-toolbar {
+		align-items: flex-start;
+		flex-direction: column;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.ame-analytics-cards {
+		grid-template-columns: 1fr;
+	}
+
+	.ame-analytics-card span {
+		min-height: 0;
+	}
+
+	.ame-analytics-panel {
+		padding: 14px;
+	}
+
+	.ame-analytics-panel-heading {
+		align-items: flex-start;
+		flex-direction: column;
+		gap: 4px;
+	}
+}

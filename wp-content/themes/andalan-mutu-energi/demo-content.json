@@ -1,0 +1,397 @@
+{
+  "brand": {
+    "name": "PT Andalan Mutu Energi",
+    "tagline": "Your Partner for Technical Inspection",
+    "logo": "assets/images/brand/logo-white.png",
+    "favicon": "assets/images/brand/favicon.png"
+  },
+  "heroes": [
+    {
+      "title": "Sertifikat Laik Operasi",
+      "subtitle": "Inspeksi dan pengujian instalasi tenaga listrik yang resmi, aman, dan terpercaya.",
+      "availability": "Layanan sertifikasi sesuai ketentuan DJK ESDM",
+      "primary": [
+        "Ajukan SLO",
+        "https://andalanmutuenergi.com/hubungi-kami/"
+      ],
+      "secondary": [
+        "Lihat Lingkup Layanan",
+        "https://andalanmutuenergi.com/lingkup-usaha/"
+      ],
+      "theme": "dark",
+      "image": "assets/images/heroes/slo-certification.jpg"
+    },
+    {
+      "title": "Inspeksi Andal & Aman",
+      "subtitle": "Your Partner for Technical Inspection.",
+      "availability": "Mandiri, kompeten, dan imparsial.",
+      "primary": [
+        "Tentang Perusahaan",
+        "https://andalanmutuenergi.com/yusuf-setiawan/"
+      ],
+      "secondary": [
+        "Visi & Misi",
+        "https://andalanmutuenergi.com/visi-dan-misi/"
+      ],
+      "theme": "light",
+      "image": "assets/images/heroes/technical-inspection.jpg"
+    },
+    {
+      "title": "Melayani Seluruh Indonesia",
+      "subtitle": "Dukungan inspeksi untuk industri, komersial, dan fasilitas publik di berbagai wilayah Indonesia.",
+      "availability": "Kantor pusat di Bandung dengan jaringan layanan di berbagai wilayah",
+      "primary": [
+        "Hubungi Kami",
+        "https://andalanmutuenergi.com/hubungi-kami/"
+      ],
+      "secondary": [
+        "Chat WhatsApp",
+        "https://wa.me/628112220017"
+      ],
+      "theme": "dark",
+      "image": "assets/images/heroes/nationwide-coverage.jpg"
+    }
+  ],
+  "promos": [
+    {
+      "title": "Pembangkitan Tenaga Listrik",
+      "subtitle": "PLTU, PLTG, PLTGU, PLTD/Genset, PLTS, PLTM, PLTBm, PLTBg, dan PLTSa.",
+      "availability": "",
+      "primary": [
+        "Lihat Layanan",
+        "https://andalanmutuenergi.com/lingkup-usaha/"
+      ],
+      "secondary": [
+        "Ajukan Inspeksi",
+        "https://andalanmutuenergi.com/hubungi-kami/"
+      ],
+      "theme": "light",
+      "image": "assets/images/promos/power-generation.jpg"
+    },
+    {
+      "title": "Transmisi Tenaga Listrik",
+      "subtitle": "Pemeriksaan jaringan transmisi dan gardu induk untuk mendukung keandalan sistem.",
+      "availability": "",
+      "primary": [
+        "Lihat Layanan",
+        "https://andalanmutuenergi.com/lingkup-usaha/"
+      ],
+      "secondary": [
+        "Ajukan Inspeksi",
+        "https://andalanmutuenergi.com/hubungi-kami/"
+      ],
+      "theme": "dark",
+      "image": "assets/images/promos/transmission.jpg"
+    },
+    {
+      "title": "Distribusi Tenaga Listrik",
+      "subtitle": "Inspeksi jaringan distribusi tegangan menengah dan tegangan rendah.",
+      "availability": "",
+      "primary": [
+        "Lihat Layanan",
+        "https://andalanmutuenergi.com/lingkup-usaha/"
+      ],
+      "secondary": [
+        "Ajukan Inspeksi",
+        "https://andalanmutuenergi.com/hubungi-kami/"
+      ],
+      "theme": "light",
+      "image": "assets/images/promos/distribution.jpg"
+    },
+    {
+      "title": "Instalasi Pemanfaatan Listrik",
+      "subtitle": "Untuk industri, gedung komersial, rumah sakit, hotel, dan fasilitas publik.",
+      "availability": "",
+      "primary": [
+        "Lihat Layanan",
+        "https://andalanmutuenergi.com/lingkup-usaha/"
+      ],
+      "secondary": [
+        "Ajukan Inspeksi",
+        "https://andalanmutuenergi.com/hubungi-kami/"
+      ],
+      "theme": "light",
+      "image": "assets/images/promos/power-utilization.jpg"
+    },
+    {
+      "title": "Sertifikasi Sistem Manajemen",
+      "subtitle": "Komitmen terhadap mutu, keberlanjutan lingkungan, serta keselamatan dan kesehatan kerja.",
+      "availability": "ISO 9001 · ISO 14001 · ISO 45001",
+      "primary": [
+        "Komitmen Perusahaan",
+        "https://andalanmutuenergi.com/visi-dan-misi/"
+      ],
+      "secondary": [
+        "",
+        ""
+      ],
+      "theme": "light",
+      "image": "assets/images/promos/iso-management.jpg"
+    },
+    {
+      "title": "Konsultasi Teknis",
+      "subtitle": "Diskusikan kebutuhan inspeksi dan kelengkapan dokumen Anda dengan tim kami.",
+      "availability": "",
+      "primary": [
+        "Hubungi Tim Kami",
+        "https://andalanmutuenergi.com/hubungi-kami/"
+      ],
+      "secondary": [
+        "Chat WhatsApp",
+        "https://wa.me/628112220017"
+      ],
+      "theme": "dark",
+      "image": "assets/images/promos/technical-consultation.jpg"
+    }
+  ],
+  "shows": [
+    {
+      "title": "Apa Itu Sertifikasi Laik Operasi?",
+      "genre": "Panduan",
+      "description": "Kenali pengertian, proses, dan manfaat Sertifikat Laik Operasi untuk instalasi Anda.",
+      "url": "https://andalanmutuenergi.com/apa-itu-sertifikasi-laik-operasi-slo-andalan-mutu-energi/",
+      "action": "Baca selengkapnya",
+      "image": "assets/images/entertainment/01-guide.jpg"
+    },
+    {
+      "title": "SLO Resmi dan Terpercaya",
+      "genre": "Layanan",
+      "description": "Legal, cepat, dan profesional melalui proses inspeksi yang sesuai dengan ketentuan.",
+      "url": "https://andalanmutuenergi.com/jasa-sertifikasi-laik-operasi-slo-resmi-cepat/",
+      "action": "Baca selengkapnya",
+      "image": "assets/images/entertainment/02-shield.jpg"
+    },
+    {
+      "title": "Dasar Hukum SLO",
+      "genre": "Regulasi",
+      "description": "Pahami landasan kewajiban sertifikasi laik operasi instalasi tenaga listrik di Indonesia.",
+      "url": "https://andalanmutuenergi.com/dasar-hukum/",
+      "action": "Baca selengkapnya",
+      "image": "assets/images/entertainment/03-law.jpg"
+    },
+    {
+      "title": "Cara Mengurus SLO",
+      "genre": "Panduan",
+      "description": "Langkah-langkah pengajuan, pemeriksaan, pengujian, hingga penerbitan sertifikat.",
+      "url": "https://andalanmutuenergi.com/cara-cepat-mengurus-slo-listrik/",
+      "action": "Baca selengkapnya",
+      "image": "assets/images/entertainment/04-document.jpg"
+    },
+    {
+      "title": "Visi dan Misi Perusahaan",
+      "genre": "Perusahaan",
+      "description": "Komitmen kami dalam menyediakan layanan inspeksi yang independen dan berkualitas.",
+      "url": "https://andalanmutuenergi.com/visi-dan-misi/",
+      "action": "Baca selengkapnya",
+      "image": "assets/images/entertainment/05-vision.jpg"
+    },
+    {
+      "title": "Keluhan, Banding & Ganti Rugi",
+      "genre": "Layanan Pelanggan",
+      "description": "Saluran resmi untuk menyampaikan keluhan dan permintaan banding terkait sertifikasi.",
+      "url": "https://andalanmutuenergi.com/keluhan-banding-ganti-rugi/",
+      "action": "Baca selengkapnya",
+      "image": "assets/images/entertainment/06-support.jpg"
+    },
+    {
+      "title": "Informasi Harga SLO",
+      "genre": "Informasi Layanan",
+      "description": "Temukan informasi mengenai ruang lingkup dan kebutuhan pengajuan SLO Anda.",
+      "url": "https://andalanmutuenergi.com/harga-sertifikat-laik-operasi/",
+      "action": "Baca selengkapnya",
+      "image": "assets/images/entertainment/07-price.jpg"
+    },
+    {
+      "title": "Sertifikasi SLO PLTSa",
+      "genre": "Bidang Pembangkitan",
+      "description": "Inspeksi dan penerbitan SLO untuk Pembangkit Listrik Tenaga Sampah.",
+      "url": "https://andalanmutuenergi.com/sbu-pltsa/",
+      "action": "Baca selengkapnya",
+      "image": "assets/images/entertainment/08-solar.jpg"
+    },
+    {
+      "title": "Konsultasi dan Permohonan",
+      "genre": "Hubungi Kami",
+      "description": "Hubungi tim spesialis kami untuk konsultasi teknis dan prosedur permohonan.",
+      "url": "https://andalanmutuenergi.com/hubungi-kami/",
+      "action": "Baca selengkapnya",
+      "image": "assets/images/entertainment/09-contact.jpg"
+    }
+  ],
+  "menus": {
+    "primary": {
+      "name": "Navigasi Utama",
+      "items": {
+        "Beranda": "https://andalanmutuenergi.com/",
+        "Tentang Kami": "https://andalanmutuenergi.com/yusuf-setiawan/",
+        "Visi & Misi": "https://andalanmutuenergi.com/visi-dan-misi/",
+        "Lingkup Usaha": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Dasar Hukum": "https://andalanmutuenergi.com/dasar-hukum/",
+        "Informasi": "https://andalanmutuenergi.com/#informasi",
+        "Hubungi Kami": "https://andalanmutuenergi.com/hubungi-kami/"
+      }
+    },
+    "quick_links": {
+      "name": "Akses Cepat",
+      "items": {
+        "Ajukan SLO": "https://andalanmutuenergi.com/hubungi-kami/",
+        "Lingkup Usaha": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Panduan SLO": "https://andalanmutuenergi.com/apa-itu-sertifikasi-laik-operasi-slo-andalan-mutu-energi/",
+        "Keluhan & Banding": "https://andalanmutuenergi.com/keluhan-banding-ganti-rugi/"
+      }
+    },
+    "contact_links": {
+      "name": "Kontak Cepat",
+      "items": {
+        "WhatsApp 0811 2220 017": "https://wa.me/628112220017",
+        "Telepon 022-7309261": "tel:+62227309261",
+        "Email Marketing": "mailto:marketing@ptame.co.id",
+        "Email Teknik": "mailto:teknik@ptame.co.id"
+      }
+    },
+    "legal": {
+      "name": "Tautan Legal",
+      "items": {
+        "Tentang Perusahaan": "https://andalanmutuenergi.com/yusuf-setiawan/",
+        "Dasar Hukum": "https://andalanmutuenergi.com/dasar-hukum/",
+        "Keluhan & Banding": "https://andalanmutuenergi.com/keluhan-banding-ganti-rugi/",
+        "Hubungi Kami": "https://andalanmutuenergi.com/hubungi-kami/"
+      }
+    },
+    "footer_company": {
+      "name": "Perusahaan",
+      "items": {
+        "Tentang Kami": "https://andalanmutuenergi.com/yusuf-setiawan/",
+        "Visi & Misi": "https://andalanmutuenergi.com/visi-dan-misi/",
+        "Dasar Hukum": "https://andalanmutuenergi.com/dasar-hukum/",
+        "Lingkup Usaha": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Hubungi Kami": "https://andalanmutuenergi.com/hubungi-kami/"
+      }
+    },
+    "footer_services": {
+      "name": "Layanan",
+      "items": {
+        "Pembangkitan": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Transmisi": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Distribusi": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Pemanfaatan Listrik": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Permohonan SLO": "https://andalanmutuenergi.com/hubungi-kami/"
+      }
+    },
+    "footer_guides": {
+      "name": "Panduan SLO",
+      "items": {
+        "Apa Itu SLO": "https://andalanmutuenergi.com/apa-itu-sertifikasi-laik-operasi-slo-andalan-mutu-energi/",
+        "Cara Mengurus SLO": "https://andalanmutuenergi.com/cara-cepat-mengurus-slo-listrik/",
+        "Harga SLO": "https://andalanmutuenergi.com/harga-sertifikat-laik-operasi/",
+        "SLO PLTSa": "https://andalanmutuenergi.com/sbu-pltsa/"
+      }
+    },
+    "footer_support": {
+      "name": "Dukungan",
+      "items": {
+        "Keluhan & Banding": "https://andalanmutuenergi.com/keluhan-banding-ganti-rugi/",
+        "Konsultasi Teknis": "https://andalanmutuenergi.com/hubungi-kami/",
+        "Kontak Kantor": "https://andalanmutuenergi.com/hubungi-kami/"
+      }
+    },
+    "footer_contact": {
+      "name": "Kontak",
+      "items": {
+        "022-7309261": "tel:+62227309261",
+        "022-7309262": "tel:+62227309262",
+        "marketing@ptame.co.id": "mailto:marketing@ptame.co.id",
+        "teknik@ptame.co.id": "mailto:teknik@ptame.co.id",
+        "WhatsApp": "https://wa.me/628112220017"
+      }
+    },
+    "footer_scope": {
+      "name": "Lingkup Inspeksi",
+      "items": {
+        "Pembangkitan": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Transmisi": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Distribusi": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Instalasi Pemanfaatan": "https://andalanmutuenergi.com/lingkup-usaha/"
+      }
+    },
+    "footer_sectors": {
+      "name": "Sektor",
+      "items": {
+        "Industri Manufaktur": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Gedung Komersial": "https://andalanmutuenergi.com/lingkup-usaha/",
+        "Fasilitas Publik": "https://andalanmutuenergi.com/lingkup-usaha/"
+      }
+    },
+    "footer_management": {
+      "name": "Sistem Manajemen",
+      "items": {
+        "ISO 9001 — Mutu": "https://andalanmutuenergi.com/visi-dan-misi/",
+        "ISO 14001 — Lingkungan": "https://andalanmutuenergi.com/visi-dan-misi/",
+        "ISO 45001 — K3": "https://andalanmutuenergi.com/visi-dan-misi/"
+      }
+    },
+    "footer_legal_info": {
+      "name": "Regulasi & Kepatuhan",
+      "items": {
+        "Dasar Hukum": "https://andalanmutuenergi.com/dasar-hukum/",
+        "Keluhan & Banding": "https://andalanmutuenergi.com/keluhan-banding-ganti-rugi/",
+        "Informasi Harga SLO": "https://andalanmutuenergi.com/harga-sertifikat-laik-operasi/"
+      }
+    },
+    "footer_news": {
+      "name": "Informasi",
+      "items": {
+        "Berita & Artikel": "https://andalanmutuenergi.com/#informasi",
+        "Panduan SLO": "https://andalanmutuenergi.com/apa-itu-sertifikasi-laik-operasi-slo-andalan-mutu-energi/",
+        "Visi dan Misi": "https://andalanmutuenergi.com/visi-dan-misi/"
+      }
+    },
+    "footer_social": {
+      "name": "Media Sosial",
+      "items": {
+        "Instagram": "https://www.instagram.com/andalan.mutu.energi/",
+        "LinkedIn": "https://id.linkedin.com/company/andalan-mutu-energi",
+        "YouTube": "https://www.youtube.com/@AndalanMutuEnergiOfficial"
+      }
+    }
+  },
+  "settings": {
+    "ame_gallery_heading": "Informasi & berita.",
+    "ame_search_placeholder": "Cari informasi SLO...",
+    "ame_quick_links_heading": "Akses Cepat",
+    "ame_contact_title": "Butuh konsultasi SLO?",
+    "ame_contact_message": "Tim kami siap membantu kebutuhan inspeksi dan sertifikasi Anda.",
+    "ame_footer_notes": "PT Andalan Mutu Energi merupakan Lembaga Inspeksi Teknik Ketenagalistrikan yang memberikan layanan pemeriksaan dan pengujian sesuai peraturan dan standar yang berlaku.\nInformasi dan cakupan layanan mengacu pada bidang, subbidang, klasifikasi, dan kualifikasi perusahaan.",
+    "ame_contact_info": "<strong>Kantor Pusat</strong><br>Jl. Palem Raya No. 6-8, Komplek Palem Permai, Soekarno-Hatta 40286, Bandung<br><a href=\"tel:+62227309261\">022-7309261</a> · <a href=\"mailto:marketing@ptame.co.id\">marketing@ptame.co.id</a>",
+    "ame_copyright": "Copyright © [year] PT Andalan Mutu Energi. Hak cipta dilindungi.",
+    "ame_locale_label": "Indonesia",
+    "ame_locale_url": "https://andalanmutuenergi.com/",
+    "ame_seo_description": "PT Andalan Mutu Energi adalah Lembaga Inspeksi Teknik Ketenagalistrikan untuk pemeriksaan, pengujian, dan Sertifikasi Laik Operasi (SLO) yang andal, aman, dan terpercaya di Indonesia.",
+    "ame_seo_phone": "+62-22-7309261",
+    "ame_seo_email": "marketing@ptame.co.id",
+    "ame_seo_address": "Jl. Palem Raya No. 6-8, Komplek Palem Permai, Soekarno-Hatta 40286, Bandung, Indonesia",
+    "ame_security_headers_enabled": true,
+    "ame_preload_hero": true,
+    "ame_enable_breadcrumbs": true,
+    "ame_enable_back_to_top": true,
+    "ame_color_primary": "#0b2d25",
+    "ame_color_accent": "#b91f32",
+    "ame_color_accent_dark": "#ff7b87",
+    "ame_color_text": "#10251f",
+    "ame_color_muted": "#64736c",
+    "ame_color_background": "#f1f5f3",
+    "ame_analytics_enabled": true,
+    "ame_analytics_retention_days": 90,
+    "ame_firewall_enabled": true,
+    "ame_login_protection_enabled": true,
+    "ame_login_attempt_limit": 5,
+    "ame_404_protection_enabled": true,
+    "ame_404_attempt_limit": 20,
+    "ame_security_lockout_minutes": 15,
+    "ame_frontend_login_enabled": true,
+    "ame_header_login_enabled": false,
+    "ame_login_captcha_enabled": true,
+    "ame_replace_wp_login": true,
+    "ame_2fa_email_enabled": true
+  }
+}
