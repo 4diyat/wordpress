@@ -1,0 +1,12 @@
+{
+  "name": "andalan-mutu-energi-wordpress-theme",
+  "version": "1.9.2",
+  "private": true,
+  "description": "Static preview server for the Andalan Mutu Energi WordPress theme",
+  "scripts": {
+    "dev": "node preview/server.mjs",
+    "start": "node preview/server.mjs",
+    "build": "python3 scripts/build_theme.py",
+    "check": "node --check preview/server.mjs && node --check wp-content/themes/andalan-mutu-energi/assets/js/navigation.js && node --check wp-content/themes/andalan-mutu-energi/assets/js/gallery.js && node --check wp-content/themes/andalan-mutu-energi/assets/js/customize-preview.js && node --check preview/content.js"
+  }
+}

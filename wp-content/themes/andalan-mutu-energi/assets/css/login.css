@@ -1,0 +1,269 @@
+.ame-login-card {
+	width: 100%;
+	max-width: 460px;
+	padding: 30px;
+	margin: 32px auto;
+	border: 1px solid var(--ame-border, #d4ded8);
+	border-radius: 12px;
+	background: #fff;
+	box-shadow: 0 12px 36px rgba(7, 29, 24, 0.08);
+}
+
+.ame-login-title {
+	margin: 0 0 22px;
+	color: var(--ame-graphite, #0b2d25);
+	font-size: 26px;
+	line-height: 1.2;
+}
+
+.ame-login-field {
+	margin-bottom: 18px;
+}
+
+.ame-login-field label,
+.ame-captcha-field label {
+	display: block;
+	margin-bottom: 7px;
+	color: var(--ame-text, #10251f);
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 1.5;
+}
+
+.ame-login-field input,
+.ame-captcha-field input:not([type="hidden"]) {
+	display: block;
+	width: 100%;
+	min-height: 46px;
+	padding: 10px 12px;
+	border: 1px solid var(--ame-border, #d4ded8);
+	border-radius: 6px;
+	background: #fff;
+	color: var(--ame-text, #10251f);
+	font-size: 16px;
+	line-height: 1.4;
+}
+
+.ame-login-field input:focus,
+.ame-captcha-field input:not([type="hidden"]):focus {
+	border-color: var(--ame-graphite, #0b2d25);
+	outline: 3px solid rgba(11, 45, 37, 0.16);
+	outline-offset: 1px;
+}
+
+.ame-captcha-field {
+	padding: 15px;
+	margin: 20px 0;
+	border-radius: 6px;
+	background: var(--ame-gray, #f1f5f3);
+}
+
+.ame-captcha-field strong {
+	color: var(--ame-graphite, #0b2d25);
+	font-size: 17px;
+	white-space: nowrap;
+}
+
+.ame-login-remember {
+	margin: 4px 0 16px;
+	font-size: 14px;
+}
+
+.ame-login-remember label {
+	display: inline-flex;
+	align-items: center;
+	gap: 7px;
+	cursor: pointer;
+}
+
+.ame-login-remember input {
+	width: 17px;
+	height: 17px;
+	margin: 0;
+}
+
+.ame-login-button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 46px;
+	padding: 10px 22px;
+	border: 0;
+	border-radius: 6px;
+	background: var(--ame-graphite, #0b2d25);
+	color: #fff;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 1.3;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+	appearance: none;
+}
+
+.ame-login-form > .ame-login-button {
+	width: 100%;
+}
+
+.ame-login-button:hover,
+.ame-login-button:focus {
+	background: var(--ame-black, #071d18);
+	color: #fff;
+}
+
+.ame-login-button:focus-visible,
+.ame-login-secondary:focus-visible,
+.ame-2fa-link-button:focus-visible {
+	outline: 3px solid rgba(11, 45, 37, 0.25);
+	outline-offset: 3px;
+}
+
+.ame-login-help {
+	margin: 18px 0 0;
+	font-size: 14px;
+	text-align: center;
+}
+
+.ame-login-success {
+	padding: 12px 14px;
+	margin-bottom: 20px;
+	border-left: 4px solid #237804;
+	border-radius: 4px;
+	background: #f0f9eb;
+	color: #237804;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+.ame-login-error {
+	padding: 12px 14px;
+	margin-bottom: 20px;
+	border-left: 4px solid #b91f32;
+	border-radius: 4px;
+	background: #fff1f2;
+	color: #8c1d2b;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+.ame-login-status {
+	margin: 0 0 20px;
+	line-height: 1.6;
+}
+
+.ame-login-actions {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 14px;
+}
+
+.ame-login-secondary {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.ame-login-honeypot {
+	position: absolute !important;
+	left: -10000px !important;
+	width: 1px !important;
+	height: 1px !important;
+	overflow: hidden !important;
+	clip-path: inset(50%) !important;
+	white-space: nowrap !important;
+}
+
+.ame-2fa-description {
+	margin: 0 0 20px;
+	color: var(--ame-muted, #64736c);
+	font-size: 14px;
+	line-height: 1.6;
+}
+
+.ame-2fa-code input {
+	font-size: 25px;
+	font-variant-numeric: tabular-nums;
+	letter-spacing: 0.22em;
+	text-align: center;
+}
+
+.ame-2fa-secondary-actions {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 12px;
+	margin-top: 16px;
+}
+
+.ame-2fa-secondary-actions form {
+	margin: 0;
+}
+
+.ame-2fa-link-button {
+	display: inline-flex;
+	align-items: center;
+	min-height: 40px;
+	padding: 0;
+	border: 0;
+	background: transparent;
+	color: var(--ame-blue, #b91f32);
+	font-size: 13px;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.ame-2fa-link-button:hover,
+.ame-2fa-link-button:focus {
+	color: var(--ame-graphite, #0b2d25);
+}
+
+.ame-2fa-note {
+	margin: 18px 0 0;
+	color: var(--ame-muted, #64736c);
+	font-size: 12px;
+	line-height: 1.5;
+}
+
+/* Native wp-login.php compatibility. */
+body.login .ame-2fa-card {
+	box-sizing: border-box;
+	max-width: none;
+	padding: 26px 24px 24px;
+	margin: 20px 0 0;
+	border: 1px solid #c3c4c7;
+	border-radius: 0;
+	background: #fff;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+body.login .ame-2fa-card .ame-login-title {
+	color: #3c434a;
+	font-size: 20px;
+}
+
+body.login .ame-2fa-description,
+body.login .ame-2fa-note {
+	color: #646970;
+}
+
+body.login .ame-captcha-field {
+	margin: 20px 0;
+	background: #f0f0f1;
+}
+
+body.login .ame-captcha-field label {
+	color: #3c434a;
+	font-weight: 400;
+}
+
+body.login .ame-captcha-field input:not([type="hidden"]) {
+	margin: 0;
+	border-color: #8c8f94;
+}
+
+@media (max-width: 480px) {
+	.ame-login-card {
+		padding: 22px 18px;
+		margin: 22px auto;
+	}
+}

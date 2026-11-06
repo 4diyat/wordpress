@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+image-search/
+dist/
+.playwright/
+/andalan-mutu-energi.zip
+.DS_Store
+*.log
